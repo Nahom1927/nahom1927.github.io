@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.nahom1927.twa",
+    "sha256_cert_fingerprints": ["C8:97:B7:DE:30:77:FB:27:97:48:C3:E8:19:9A:AE:C4:F0:02:53:BC:2C:53:19:1D:94:8C:C8:90:B4:24:24:77"]
+  }
+}]
